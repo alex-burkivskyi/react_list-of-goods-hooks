@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAEA,OACE,YAAa,CACb,qBAAsB,CACtB,gBAAiB,CACjB,aAAS,CAAT,QACF","file":"main.c320c248.chunk.css","sourcesContent":["/* put styles here */\n\n.level {\n  display: flex;\n  flex-direction: column;\n  padding-top: 10px;\n  gap: 10px;\n}\n"]}
